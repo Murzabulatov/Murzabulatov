@@ -1,1 +1,3 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Murzabulatov&count_private=true)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Murzabulatov&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Murzabulatov's github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murzabulatov&hide=CSS&layout=compact&hide_border=true" />
